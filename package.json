@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-almost-equal-complex128array",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if two arguments are both Complex128Arrays and contain respective elements which are approximately equal within a specified number of ULPs (units in the last place).",
   "license": "Apache-2.0",
   "author": {
@@ -42,8 +42,8 @@
   },
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.2.1",
-    "@stdlib/array-complex128": "^0.3.0",
-    "@stdlib/array-typed": "^0.3.0",
+    "@stdlib/array-complex128": "^0.3.1",
+    "@stdlib/array-typed": "^0.3.1",
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
